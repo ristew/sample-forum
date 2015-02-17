@@ -1,1 +1,1 @@
-A sample forum in php and MySQL that I made while learning these basic web technologies.
+A sample forum in PHP, JavaScript, CSS, and MySQL that I made as a learning exercise.
